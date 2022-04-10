@@ -1,3 +1,5 @@
 This is my second file ,that i want to add to git hub.
 To master github commands,the only way is to practice.
 Lets us see how can we commit this file...Ready ..1..2..3..go..commit
+I also want to do a second,third commit..
+Shall i do the third commit now...
